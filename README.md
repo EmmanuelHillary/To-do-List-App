@@ -56,5 +56,4 @@ then run the server
 ```
 And navigate to `http://127.0.0.1:8000/`.
 
-## `http://127.0.0.1:8000/`
-![alt text](https://github.com/EmmanuelHillary/To-do-List-Ap/blob/main/images/Homepage.png?raw=true)
+![Alt text](https://github.com/EmmanuelHillary/To-do-List-App/blob/main/images/Homepage.png?raw=true "Homepage")
