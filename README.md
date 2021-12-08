@@ -35,7 +35,7 @@ Once `pip` has finished downloading the dependencies:
 ```sh
 (env)$ cd django-project
 ```
-make make migrations and push the migrations
+make migrations and push the migrations
 
 ```sh
 (env)$ python manage.py makemigrations
