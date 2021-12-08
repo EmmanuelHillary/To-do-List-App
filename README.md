@@ -16,11 +16,6 @@ Create a virtual environment to install dependencies in and activate it:
 $ py -3 -m venv env
 $ env\Scripts\activate
 ```
-Or use the virtual env from the repo 
-
-```sh
-$ tmenv\Scripts\activate
-```
 
 Then install the dependencies:
 
